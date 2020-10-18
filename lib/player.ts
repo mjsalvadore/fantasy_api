@@ -1,5 +1,5 @@
 interface Player {
-    entities: Array<Entity>
-    name: string
-    UID: string
+    entities: Array<Entity>;
+    name: string;
+    UID: string;
 }

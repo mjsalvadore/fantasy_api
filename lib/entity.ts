@@ -1,3 +1,3 @@
 interface Entity {
-    UID: string
+    UID: string;
 }
