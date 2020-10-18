@@ -1,4 +1,5 @@
 import {Entity} from "./entity";
+import {Player} from "./player";
 
 export interface DraftResults {
     availableEntities: Array<Entity>;
